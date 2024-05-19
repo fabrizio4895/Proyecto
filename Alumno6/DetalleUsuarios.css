@@ -1,0 +1,35 @@
+.detalle-usuario {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.detalle-usuario h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.detalle-usuario p {
+    margin: 10px 0;
+}
+
+.detalle-usuario h2 {
+    margin-top: 20px;
+}
+
+.detalle-usuario ul {
+    list-style: none;
+    padding: 0;
+}
+
+.detalle-usuario li {
+    margin: 5px 0;
+}
+
+.detalle-usuario a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.detalle-usuario a:hover {
+    text-decoration: underline;
+}

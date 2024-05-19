@@ -1,0 +1,37 @@
+.lista-usuarios {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.lista-usuarios h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.lista-usuarios table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.lista-usuarios th, .lista-usuarios td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.lista-usuarios th {
+    background-color: #f4f4f4;
+}
+
+.lista-usuarios button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.lista-usuarios button:hover {
+    background-color: #0056b3;
+}

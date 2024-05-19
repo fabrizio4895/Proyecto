@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "userId": 1,
+      "total": 100,
+      "estado": "Completado",
+      "items": [
+        {
+          "id": 1,
+          "nombre": "Reloj A",
+          "cantidad": 1,
+          "precio": 100
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "userId": 1,
+      "total": 200,
+      "estado": "Pendiente",
+      "items": [
+        {
+          "id": 2,
+          "nombre": "Reloj B",
+          "cantidad": 2,
+          "precio": 100
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "total": 150,
+      "estado": "Completado",
+      "items": [
+        {
+          "id": 3,
+          "nombre": "Reloj C",
+          "cantidad": 1,
+          "precio": 150
+        }
+      ]
+    }
+  ]
+  
